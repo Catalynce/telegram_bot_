@@ -66,5 +66,3 @@ dispatcher.add_handler(Creator_handler)
 
 
 updater.start_polling()
-
-#45648
